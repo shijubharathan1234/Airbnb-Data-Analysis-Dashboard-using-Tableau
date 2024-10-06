@@ -23,6 +23,10 @@ To identify Airbnb’s trends in revenue, pricing, and demand across different z
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/6a46c496-eed3-4af5-a1e7-e4767bd148e2)
 ## Project Insights
+ - Achieved a 200% increase in revenue over the year.
+ - Most of the bookings were at the end of the year.
+ - ZIP Code 98134 (Seatle, Washington) have the highest average prices accross the country.
+ - 1 bedroom rooms are the most demanded rooms. 
 
 
 
