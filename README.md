@@ -13,4 +13,20 @@ To identify Airbnb’s trends in revenue, pricing, and demand across different z
 •	Which Channel is contributing maximum to the sales?<br>
 •	Highest selling month?<br>
 •	Dashboard Interaction <a href="https://github.com/shijubharathan1234/Airbnb-Data-Analysis-Dashboard-using-Tableau/blob/main/Dashboard.png"> View Dashboard </a><br>
+## Process
+•	Verified data for any missing values and anomalies, and sort out the same.<br>
+•	Made sure data is consistent and clean with respect to data type, data format and values used.<br>
+•	Inner joins where used to join.<br>
+•	Bar plot where used to represent the Average Bedroom Pricing.<br>
+•	Charts where used to represent revenue through out the year.<br>
+•	Bar, Map, Table where used to represent different aspects of the informations.<br>
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/6a46c496-eed3-4af5-a1e7-e4767bd148e2)
+## Project Insights
+
+
+
+
+
+
 
