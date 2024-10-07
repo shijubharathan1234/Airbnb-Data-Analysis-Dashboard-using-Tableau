@@ -1,4 +1,4 @@
-# Airbnb-Data-Analysis-Project(Creating a Interactive Dashboard using Tableau)
+# Airbnb-Data-Analysis-Project(Creating a Dashboard using Tableau)
 ## Project Objective
 To identify Airbnb’s trends in revenue, pricing, and demand across different zip codes using Tableau.<br>(This is a personal project for skill enhancement.)
 ## Datasets Used
